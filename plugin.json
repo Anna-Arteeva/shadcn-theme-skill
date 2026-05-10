@@ -27,9 +27,9 @@
     }
   ],
   "documentation": {
-    "homepage": "https://github.com/annaarteeva/shadcn-theme-skill",
-    "issues": "https://github.com/annaarteeva/shadcn-theme-skill/issues",
-    "changelog": "https://github.com/annaarteeva/shadcn-theme-skill/releases"
+    "homepage": "https://github.com/Anna-Arteeva/shadcn-theme-skill",
+    "issues": "https://github.com/Anna-Arteeva/shadcn-theme-skill/issues",
+    "changelog": "https://github.com/Anna-Arteeva/shadcn-theme-skill/releases"
   },
   "requirements": {
     "minClaudeCodeVersion": "1.0.0"
