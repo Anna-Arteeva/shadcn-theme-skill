@@ -1,0 +1,37 @@
+{
+  "name": "shadcn-theme",
+  "displayName": "ShadCN Theme Generator",
+  "version": "1.0.0",
+  "description": "Convert raw design tokens into a drop-in ShadCN/Tailwind v4 globals.css file with light, dark, and theme bindings.",
+  "author": "Anna Arteeva",
+  "license": "MIT",
+  "keywords": [
+    "shadcn",
+    "tailwind",
+    "theme",
+    "design-tokens",
+    "css",
+    "globals.css"
+  ],
+  "icon": "🎨",
+  "skills": [
+    {
+      "id": "shadcn-theme",
+      "path": "SKILL.md"
+    }
+  ],
+  "assets": [
+    {
+      "type": "template",
+      "path": "assets/globals.template.css"
+    }
+  ],
+  "documentation": {
+    "homepage": "https://github.com/annaarteeva/shadcn-theme-skill",
+    "issues": "https://github.com/annaarteeva/shadcn-theme-skill/issues",
+    "changelog": "https://github.com/annaarteeva/shadcn-theme-skill/releases"
+  },
+  "requirements": {
+    "minClaudeCodeVersion": "1.0.0"
+  }
+}
